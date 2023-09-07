@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 study hard
-=======
 changes done by remote
->>>>>>> a1fde956dd522ca5291b677577e6d6fddb04c9c9
